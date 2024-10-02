@@ -1,6 +1,12 @@
 # Aula 2
 
-Meu primeiro repositório no Git
+Meu primeiro repositório no Git. Um projeto de Blog simples.
+
+# Tecnologias Utilizadas
+
+1. HTML;
+2. CSS;
+3. JS.
 
 
 # Instruções de uso:
